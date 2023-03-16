@@ -4,9 +4,7 @@ public class Stringbuffer {
        final StringBuffer sb= new StringBuffer("abc");
         sb.append("ooo");
         System.out.println(sb);
-      final int a=10;
-      a=20;
-      
+    
 
     }
 }
